@@ -1,0 +1,14 @@
+C:\Users\alex_\Desktop\API\Data.Entity\bin\Debug\net6.0\Data.Entity.deps.json
+C:\Users\alex_\Desktop\API\Data.Entity\bin\Debug\net6.0\Data.Entity.runtimeconfig.json
+C:\Users\alex_\Desktop\API\Data.Entity\bin\Debug\net6.0\Data.Entity.dll
+C:\Users\alex_\Desktop\API\Data.Entity\bin\Debug\net6.0\Data.Entity.pdb
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\Data.Entity.csproj.AssemblyReference.cache
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\Data.Entity.AssemblyInfoInputs.cache
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\Data.Entity.AssemblyInfo.cs
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\Data.Entity.dll
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\refint\Data.Entity.dll
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\Data.Entity.pdb
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\Data.Entity.genruntimeconfig.cache
+C:\Users\alex_\Desktop\API\Data.Entity\obj\Debug\net6.0\ref\Data.Entity.dll

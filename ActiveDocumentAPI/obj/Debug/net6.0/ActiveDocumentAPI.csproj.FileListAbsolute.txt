@@ -1,0 +1,15 @@
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\bin\Debug\net6.0\ActiveDocumentAPI.deps.json
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\bin\Debug\net6.0\ActiveDocumentAPI.dll
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\bin\Debug\net6.0\ActiveDocumentAPI.pdb
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\bin\Debug\net6.0\Data.Entity.dll
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\bin\Debug\net6.0\Data.Entity.pdb
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\ActiveDocumentAPI.csproj.AssemblyReference.cache
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\ActiveDocumentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\ActiveDocumentAPI.AssemblyInfoInputs.cache
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\ActiveDocumentAPI.AssemblyInfo.cs
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\ActiveDocumentAPI.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\ActiveDocumentAPI.csproj.CopyComplete
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\ActiveDocumentAPI.dll
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\refint\ActiveDocumentAPI.dll
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\ActiveDocumentAPI.pdb
+C:\Users\alex_\Desktop\API\ActiveDocumentAPI\obj\Debug\net6.0\ref\ActiveDocumentAPI.dll

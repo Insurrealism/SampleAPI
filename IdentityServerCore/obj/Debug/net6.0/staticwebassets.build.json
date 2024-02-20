@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3C1isweLhuKPh8HrzQqGLgnQKdSVy23tKIUDTQ7Tp3U=",
+  "Source": "IdentityServerCore",
+  "BasePath": "_content/IdentityServerCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
